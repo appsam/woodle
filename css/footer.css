@@ -1,0 +1,36 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.keybord-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+}
+
+.keybord-column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  border-radius: 20%;
+  font-weight: bold;
+  margin: 6px 0 0 6px;
+  width: 40px;
+  height: 50px;
+}
+.keybord-column1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  border-radius: 20%;
+  font-weight: bold;
+  margin: 6px 0 0 6px;
+  width: 80px;
+  height: 50px;
+}
